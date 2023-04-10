@@ -8,4 +8,3 @@
 - [Neon Terminal - a fork of st](https://github.com/5iddy/neonterm)
 - [Neon Window Manager - a fork of dwm](https://github.com/5iddy/neonwm)
 - [Telegram Bot Manager](https://github.com/5iddy/tgbotman)
-- [rurl - Rewrite cUrl in Rust](https://github.com/5iddy/rurl)
